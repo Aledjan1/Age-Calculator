@@ -66,5 +66,6 @@ Enter your age and click Calculate Age.
 ## Author
 
 Created as part of my journey to becoming a Frontend Developer.
+My project link: https://aledjan1.github.io/Age-Calculator/
 
 I'm improving my JavaScript skills by building practical mini-projects and learning to write code independently.
